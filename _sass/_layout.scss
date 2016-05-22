@@ -240,3 +240,14 @@
         }
     }
 }
+
+body {
+    background: url("../images/noragami-anime.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.site-header, .page-content, .site-footer {
+    background-color: rgba(255, 255, 255, 0.75);
+}
